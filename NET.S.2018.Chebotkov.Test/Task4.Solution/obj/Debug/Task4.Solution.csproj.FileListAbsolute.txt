@@ -1,0 +1,17 @@
+C:\Users\MIB\Desktop\20.11.2017\Task4.Solution\bin\Debug\Task4.Solution.dll
+C:\Users\MIB\Desktop\20.11.2017\Task4.Solution\bin\Debug\Task4.Solution.pdb
+C:\Users\MIB\Desktop\20.11.2017\Task4.Solution\obj\Debug\Task4.Solution.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\20.11.2017\Task4.Solution\obj\Debug\Task4.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\20.11.2017\Task4.Solution\obj\Debug\Task4.Solution.dll
+C:\Users\MIB\Desktop\20.11.2017\Task4.Solution\obj\Debug\Task4.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task4.Solution\bin\Debug\Task4.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task4.Solution\bin\Debug\Task4.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task4.Solution\obj\Debug\Task4.Solution.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\23.11.2017\Task4.Solution\obj\Debug\Task4.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task4.Solution\obj\Debug\Task4.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task4.Solution\obj\Debug\Task4.Solution.pdb
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task4.Solution\bin\Debug\Task4.Solution.dll
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task4.Solution\bin\Debug\Task4.Solution.pdb
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task4.Solution\obj\Debug\Task4.Solution.csproj.CoreCompileInputs.cache
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task4.Solution\obj\Debug\Task4.Solution.dll
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task4.Solution\obj\Debug\Task4.Solution.pdb

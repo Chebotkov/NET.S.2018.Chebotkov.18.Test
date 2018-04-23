@@ -1,0 +1,9 @@
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Console\obj\Debug\Task2.Console.csprojResolveAssemblyReference.cache
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Console\obj\Debug\Task2.Console.csproj.CoreCompileInputs.cache
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Console\bin\Debug\Task2.Console.exe.config
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Console\bin\Debug\Task2.Console.exe
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Console\bin\Debug\Task2.Console.pdb
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Console\bin\Debug\Task2.Solution.dll
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Console\bin\Debug\Task2.Solution.pdb
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Console\obj\Debug\Task2.Console.exe
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Console\obj\Debug\Task2.Console.pdb

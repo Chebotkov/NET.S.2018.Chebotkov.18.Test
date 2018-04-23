@@ -1,0 +1,17 @@
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\bin\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\bin\Debug\Task2.Solution.pdb
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\bin\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\bin\Debug\Task2.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.pdb
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Solution\bin\Debug\Task2.Solution.dll
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Solution\bin\Debug\Task2.Solution.pdb
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Solution\obj\Debug\Task2.Solution.csproj.CoreCompileInputs.cache
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Solution\obj\Debug\Task2.Solution.dll
+D:\Courses\NET.S.2018.Chebotkov.18.Test\NET.S.2018.Chebotkov.Test\Task2.Solution\obj\Debug\Task2.Solution.pdb
